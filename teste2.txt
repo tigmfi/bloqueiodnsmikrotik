@@ -1,3 +1,4 @@
+||cloudflare-dns.com^
 0.0.0.0	1a.ns.ozer.im
 0.0.0.0	8888.google
 0.0.0.0	aattwwss.duckdns.org
